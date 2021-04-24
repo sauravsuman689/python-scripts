@@ -1,4 +1,4 @@
-#Take a number input from a user to check whether it's prime or not
+#Take a number input from a user to check whether it's prime or not..!
 num = input("Enter a Integer number to check if it's prime or not = ")
 
 mark = False
